@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "types": ["react-query"],
     "target": "es5",
     "lib": [
       "dom",
